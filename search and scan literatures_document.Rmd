@@ -7,6 +7,9 @@ date: "2021/4/6"
 output: word_document
 ---
 
+Due to limited time and overwhelming details, I did not have time to draft this document in a traditional way, but to use RMarkDown instead, thus the format may not be quite good in some cases. Sorry about that. If you are interested in how I made this document, or would like to change the format to a style that you prefer, you can find my original code at <https://github.com/hezht3/DKU_workshop_search-scan>. Please feel free to clone this repo. If you have any questions or suggestions, please feel free to contact me at zhengting.he@dukekunshan.edu.cn.
+
+
 # 1. Why do we need to search literature systematically?
 
 
@@ -247,16 +250,16 @@ output: word_document
 
 #### 2.2.3.1 Boolean logic
 
-* similiar to coding: AND, OR, NOT
-    + "healthy lifestyle" AND mortality
-    + "healthy lifestyle" OR "healthy diet habit"
-    + "healthy lifestyle" NOT "animal"
+* similiar to coding: **AND**, **OR**, **NOT**
+    + "healthy lifestyle" **AND** mortality
+    + "healthy lifestyle" **OR** "healthy diet habit"
+    + "healthy lifestyle" **NOT** "animal"
 
 
 #### 2.2.3.2 Proximity searching
 
-* NEAR/ADJ
-    + healthy adj1 lifestyle
+* **NEAR/ADJ**
+    + healthy **adj1** lifestyle
     + **PubMed and Web of Science do not have proximit searching function**
 
 

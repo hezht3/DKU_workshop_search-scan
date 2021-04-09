@@ -9,6 +9,17 @@ output:
   beamer_presentation: default
 ---
 
+Due to limited time and overwhelming details, I did not have time to draft this document in a traditional way, but to use RMarkDown instead, thus the format may not be quite good in some cases. Sorry about that. If you are interested in how I made this document, or would like to change the format to a style that you prefer, you can find my original code at <https://github.com/hezht3/DKU_workshop_search-scan>. Please feel free to clone this repo. If you have any questions or suggestions, please feel free to contact me at zhengting.he@dukekunshan.edu.cn.
+
+
+# Brief intro about myself
+
+* MBBS. of Oral Medicine, Guanghua School of Stomatology, Sun Yat-sen University
+
+* MHS candidate in Epidemiology, Bloomberg School of Public Health, Johns Hopkins University
+
+* Intern Research Fellow for NCDs research, Global Health Research Center, Duke Kunshan University
+
 
 # 1. Why do we need to search literature systematically?
 
@@ -107,13 +118,6 @@ output:
 
 
 # 2.2 Structure of a search strategy
-
-* **Comparators/outcomes** typically may not be well described in the title or abstract of an article and are often not well indexed with controlled vocabulary terms
-
-* A search strategy will typically has:
-    + terms to search for the health condition of interest, i.e. the **population**
-    + terms to search for the **intervention(s)** evaluated
-    + terms to search for the types of **study design** to be included
 
 * Structure:
     + **a broad set of search terms** gathered for each concept
@@ -267,15 +271,15 @@ output:
 
 # 2.2.3.1 Boolean logic
 
-* similiar to coding: AND, OR, NOT
-    + "healthy lifestyle" AND mortality
-    + "healthy lifestyle" OR "healthy diet habit"
-    + "healthy lifestyle" NOT "animal"
+* similiar to coding: **AND**, **OR**, **NOT**
+    + "healthy lifestyle" **AND** mortality
+    + "healthy lifestyle" **OR** "healthy diet habit"
+    + "healthy lifestyle" **NOT** "animal"
 
 # 2.2.3.2 Proximity searching
 
-* NEAR/ADJ
-    + healthy adj1 lifestyle
+* **NEAR/ADJ**
+    + healthy **adj1** lifestyle
     + **PubMed and Web of Science do not have proximit searching function**
 
 # 2.2.3.3 Truncate searching
@@ -464,6 +468,8 @@ output:
 * Use all electronic resources
 
 * Document when, where, and how you searched and what you found
+
+* We are not experts on searching, if your team cannot solve a problem in searching, it is time to **Ask a Librarian**. It will be also helpful to consult a content expert.
 
 
 # 3. How to conduct study selection?
