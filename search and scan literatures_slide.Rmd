@@ -65,6 +65,9 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 # 2. How to conduct a systematic electrical searching
 
 
+**Before the start of the searching, it is very important to formulate a draft study protocol in a formal systematic review. Key references and draft protocol will help you to further formulate search strategy and study selection criteria, and the pilot study in these 2 stages will further help you to finish a final study protocol.**
+
+
 # 2.1 Starting point for developing a search strategy: break your research question into concepts (PICOS)
 
 * consider the main concepts being examined in a review: **PICOS**
@@ -145,44 +148,45 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 # Take "healthy lifestyle and mortality" as an example
 
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/01 Pubmed-HL-origin.png')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/01 Pubmed-HL-origin.png')
 ```
 
     
 # Take "healthy lifestyle and mortality" as an example
 
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/02 Pubmed-HL-search history.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/02 Pubmed-HL-search history.PNG')
 ```
 
 
 # Take "healthy lifestyle and mortality" as an example
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/03 Pubmed-HL-key words.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/03 Pubmed-HL-key words.PNG')
 ```
 
 
 # Take "healthy lifestyle and mortality" as an example
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/04 Pubmed-HL-similar articles.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/04 Pubmed-HL-similar articles.PNG')
 ```
 
 
 # Take "healthy lifestyle and mortality" as an example
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/05 Pubmed-HL-publication type and mesh terms.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/05 Pubmed-HL-publication type and mesh terms.PNG')
+```
+
+* **Those Mesh terms end with "*" are important mesh terms that you need to pay special attention.**
+
+# Take "healthy lifestyle and mortality" as an example
+```{r, echo=FALSE}
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/06 Pubmed-HL-display options.PNG')
 ```
 
 
 # Take "healthy lifestyle and mortality" as an example
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/06 Pubmed-HL-display options.PNG')
-```
-
-
-# Take "healthy lifestyle and mortality" as an example
-```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/07 Pubmed-HL-mesh.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/07 Pubmed-HL-mesh.PNG')
 ```
 
 
@@ -202,43 +206,43 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 
 # 2.2.1.2.1 PubMed: **MeSH Database**
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/08 Mesh-NCBI.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/08 Mesh-NCBI.PNG')
 ```
 
 
 # 2.2.1.2.1 PubMed: **MeSH Database**
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/09 Mesh-database.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/09 Mesh-database.PNG')
 ```
 
 
 # 2.2.1.2.1 PubMed: **MeSH Database**
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/10 Mesh-hirearchy tree.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/10 Mesh-hirearchy tree.PNG')
 ```
 
 
 # 2.2.1.2.1 PubMed: **MeSH Database**
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/11 Mesh-PubMed advanced.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/11 Mesh-PubMed advanced.PNG')
 ```
     
     
 # 2.2.1.2.2 MEDLINE (Ovid interface): **MeSH Database**
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/12 Mesh-Medline.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/12 Mesh-Medline.PNG')
 ```
 
 
 # 2.2.1.2.3 Embase: **Emtree**
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/13 Emtree-Embase.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/13 Emtree-Embase.PNG')
 ```
 
 
 # 2.2.1.2.3 Embase: **Emtree**
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/14 Emtree-Embase2.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/14 Emtree-Embase2.PNG')
 ```
 
 
@@ -281,6 +285,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 * **NEAR/ADJ**
     + healthy **adj1** lifestyle
     + **PubMed and Web of Science do not have proximit searching function**
+    + So we suggest you to use **MEDLINE** instead of **PubMed** as it has proximity searching (adj) function
 
 # 2.2.3.3 Truncate searching
 
@@ -334,6 +339,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
         - PsychINFO
         - OTSeeker
     + Gray literature databases: Opengrey
+* **Do not forget the importance of Google Scholar, though it has not been included as a common databased in most systematic reviews, it will be really helpful for you to find initial key literatures, and to make sure whether your searching is comprehensive.**
 
 
 # Example
@@ -385,7 +391,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 
 # Example
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/15 PubMed-fit searching strategy.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/15 PubMed-fit searching strategy.PNG')
 ```
 
 
@@ -409,40 +415,40 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 # 2.4.2 Import your searching result from PubMed
 * Download citations
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/16 PubMed-document searching.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/16 PubMed-document searching.PNG')
 ```
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/17 PubMed-document searching2.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/17 PubMed-document searching2.PNG')
 ```
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/18 PubMed-import to EndNote.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/18 PubMed-import to EndNote.PNG')
 ```
 
 
 # 2.4.3 Import your searching result from MEDLINE
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/19 MEDLINE-document searching.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/19 MEDLINE-document searching.PNG')
 ```
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/20 MEDLINE-document searching2.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/20 MEDLINE-document searching2.PNG')
 ```
 
 
 # 2.4.4 Import your searching result from EMBASE
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/21 EMBASE-document searching.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/21 EMBASE-document searching.PNG')
 ```
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/22 EMBASE-document searching2.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/22 EMBASE-document searching2.PNG')
 ```
 
 
 # 2.4.5 Use EndNote to manage literatures
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/23 EndNote interface.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/23 EndNote interface.PNG')
 ```
 ```{r, echo=FALSE}
-   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/24 EndNote interface2.PNG')
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/24 EndNote interface2.PNG')
 ```
 
 
@@ -456,7 +462,9 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 
 # 2.6 PRISMA Flow of Information
 * To keep record of complicated searching and scanning, I strongly encourage you to document infromation in PRISMA flow diagram. Details can be found here: <http://www.prisma-statement.org/PRISMAStatement/FlowDiagram>
-![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/25 PRISMA flow diagram.PNG)
+```{r, echo=FALSE}
+   knitr::include_graphics('F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/25 PRISMA flow diagram.PNG')
+```
 
 
 # 2.7 Summary on searching

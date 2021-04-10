@@ -64,6 +64,9 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 # 2. How to conduct a systematic electrical searching
 
 
+**Before the start of the searching, it is very important to formulate a draft study protocol in a formal systematic review. Key references and draft protocol will help you to further formulate search strategy and study selection criteria, and the pilot study in these 2 stages will further help you to finish a final study protocol.**
+
+
 ## 2.1 Starting point for developing a search strategy: break your research question into concepts (PICOS)
 
 * consider the main concepts being examined in a review: **PICOS**
@@ -150,18 +153,19 @@ Due to limited time and overwhelming details, I did not have time to draft this 
     
 * Take "healthy lifestyle and mortality" as an example
     + You can simply go to PubMed database at <https://pubmed.ncbi.nlm.nih.gov/>, type **("healthy lifestyle") AND (mortality)** in the search box:
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/01 Pubmed-HL-origin.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/01 Pubmed-HL-origin.PNG)
     + Take a look at the "Advanced" buttom, where you can see what is actually searched in the search history. You can use the "Translations" to find synonyms.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/02 Pubmed-HL-search history.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/02 Pubmed-HL-search history.PNG)
     + You may find some relavent articles in the previous searching. Click on these articles. Roll down to see the **keywords** and **Similar articles**. You can expand synonyms through these places.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/03 Pubmed-HL-key words.PNG)
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/04 Pubmed-HL-similar articles.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/03 Pubmed-HL-key words.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/04 Pubmed-HL-similar articles.PNG)
     + Further roll down to see the **Publication types** and **MeSH terms**. You can further expand synonyms through these places.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/05 Pubmed-HL-publication type and mesh terms.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/05 Pubmed-HL-publication type and mesh terms.PNG)
+    + **Those Mesh terms end with "*" are important mesh terms that you need to pay special attention.**
     + Another way is to click on the **Display options**, choose **PubMed**, and you can see the indexing code behind the article.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/06 Pubmed-HL-display options.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/06 Pubmed-HL-display options.PNG)
     + Roll down the code to see **Mesh terms**
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/07 Pubmed-HL-mesh.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/07 Pubmed-HL-mesh.PNG)
 
 * Use **key words** and **mesh terms** in known articles to expand synonyms and build search strategy
 
@@ -180,7 +184,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 ##### 2.2.1.2.1 PubMed: **MeSH Database**
 
 * Go to NCBI's website <https://www.ncbi.nlm.nih.gov/>, choose "Mesh" Database, and click "Search"
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/08 Mesh-NCBI.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/08 Mesh-NCBI.PNG)
 
 * Type **healthy lifestyle** in the search box, and it will retrieve the Mesh term **Healthy Lifestyle**. It is not common to retrieve just a simple Mesh term like Healthy Lifestyle, normally it will retrieve multiple Mesh terms, and you need to select which term fits with your scope.
 
@@ -189,13 +193,13 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 * Another important point is the 2 options below **subheading**, i.e., **Restrict to Mesh Major Topic** and **Do not include MeSH terms found below this term in the Mesh hierarchy**. Select these options may help you to retrieve less articles that are more focus on your Mesh term, but may omit articles that you need. The best way to decide whether to select these options or not is to conduct pilot searching, and is case by case based on your research question.
 
 * After selecting these options, you can simply click "Add to search builder" and "Search PubMed".
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/09 Mesh-database.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/09 Mesh-database.PNG)
 
 * You can further roll down to see the **Entry Terms** and Mesh **hierarchy tree**. Please note that although it is allowed to search terms and terms under its hierarchy, eg., **Healthy Lifestyle[Mesh] AND Healthy Aging[Mesh]**, actually **Healthy Aging[Mesh]** is not meaningful, since all articles it will retrieved are covered by **Healthy Lifestyle[Mesh]**, unless you click **Restrict to Mesh Major Topic**. This is simple when you are using one Mesh term, however, when you are using multiple synonyming Mesh terms, you do need to have this info in mind and always check the hierarchy tree.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/10 Mesh-hirearchy tree.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/10 Mesh-hirearchy tree.PNG)
 
 * Another way to access Mesh Database is to directly go to PubMed advance searching <https://pubmed.ncbi.nlm.nih.gov/advanced/> and choose **MeSH Terms** as the field. However, this may be misleading, since it also allow you to input a non-Mesh word or phrase as a Mesh Term and allow you to search. So I strongly disencourage you to use this way.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/11 Mesh-PubMed advanced.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/11 Mesh-PubMed advanced.PNG)
     
     
 #### 2.2.1.2.2 MEDLINE (Ovid interface): **MeSH Database**
@@ -203,7 +207,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 * To access Medline (Ovid interface), first get on Duke Library, click on **Research Database**, and search for **medline** <https://guides.library.duke.edu/az.php?q=medline>
 
 * Since PubMed is also called "Old Medline", Medline has nearly identical **Mesh Database** and function with PubMed. You can directly enter **healthy lifestyle**, select **Map Term to SubJect Heading**, and click **Search**; or you can use **Expand Term Finder**
-![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/12 Mesh-Medline.PNG)
+![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/12 Mesh-Medline.PNG)
 
 * The **Explode/Focus** is similar to the **Restrict to Mesh Major Topic** option in PubMed. The **Subheadings** is similiar to the **Subheadings** in PubMed.
 
@@ -213,10 +217,10 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 * To access Embase, first get on Duke Library, click on **Research Database**, and search for **Embase** <https://guides.library.duke.edu/az.php?q=embase>
 
 * Embase has an **Emtree** database, which is similar to **Mesh** database in PubMed/Medline. Simply fo to **Advanced** searching in Embase, select **Mapping**, and select the preferred options at the left side. You can enter **healthy lifestyle** in the search box, and click **Search**.
-![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/13 Emtree-Embase.PNG)
+![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/13 Emtree-Embase.PNG)
 
 * Another way is to select **Emtree** in Embase, and to search for the **Emtree term**. You can see the hierarchy tree of the searched term. Sometimes, your search term appeared as a **candidate term**, without hierarchy tree retrieved. This is because Embase has a database of **candidate Emtree Terms**, which is database of terms that are currently not included Emtree, but may be included in further indexing. You can choose whether to include these terms or not.
-![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/14 Emtree-Embase2.PNG)
+![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/14 Emtree-Embase2.PNG)
 
 
 #### 2.2.1.2.4 Web of Science: no controlled vocabulary available
@@ -261,6 +265,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 * **NEAR/ADJ**
     + healthy **adj1** lifestyle
     + **PubMed and Web of Science do not have proximit searching function**
+    + So we suggest you to use **MEDLINE** instead of **PubMed** as it has proximity searching (adj) function
 
 
 #### 2.2.3.3 Truncate searching
@@ -315,6 +320,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
         - PsychINFO
         - OTSeeker
     + Gray literature databases: Opengrey
+* **Do not forget the importance of Google Scholar, though it has not been included as a common databased in most systematic reviews, it will be really helpful for you to find initial key literatures, and to make sure whether your searching is comprehensive.**
 
 
 ### 2.3.2 Example
@@ -332,7 +338,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
         - #8 (neoplasms[Mesh] OR neoplasm[Title/Abstract] OR neoplasms[Title/Abstract] OR neoplasia[Title/Abstract] OR cancer[Title/Abstract] OR cancers[Title/Abstract] OR carcinoma[Title/Abstract] OR carcinomas[Title/Abstract] OR tumour[Title/Abstract] OR tumours[Title/Abstract] OR  tumor[Title/Abstract] OR tumors[Title/Abstract] OR malignancy[Title/Abstract] OR malignancies[Title/Abstract])
         - #9 (((#5) OR #6) OR #7) OR #8
         - #10 (#9) AND #4
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/15 PubMed-fit searching strategy.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/15 PubMed-fit searching strategy.PNG)
     + EMBASE
         - 1 exp lifestyle/
         - 2 exp health behavior/
@@ -386,21 +392,21 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 ### 2.4.2 Import your searching result from PubMed
 * Download citations
     + One way is to select **Save**, **All results**, and **Summary (text)**. A txt document will be created shortly.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/16 PubMed-document searching.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/16 PubMed-document searching.PNG)
     + Another way is to select **Send to**, **Citation manager**, and **All results**. A nbib. document will be created shortly.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/17 PubMed-document searching2.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/17 PubMed-document searching2.PNG)
 * Import citations
     + For the first option, you need to select **PubMed (NLM)** in the **Import Option**.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/18 PubMed-import to EndNote.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/18 PubMed-import to EndNote.PNG)
     + For the second option, you can directly double-click the nbib. document, or select **PubMed (NLM)** in the **Import Option**.
 
 
 ### 2.4.3 Import your searching result from MEDLINE
 * Download citations
     + You need to select **All**, and then click **Export**
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/19 MEDLINE-document searching.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/19 MEDLINE-document searching.PNG)
     + Then choose **Format** as **EndNote**, and select appropriate **Fields**, and click **Export**. A document will be created shortly.
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/20 MEDLINE-document searching2.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/20 MEDLINE-document searching2.PNG)
 * Import citations
     + Simply double-click the document to import it to EndNote.
 
@@ -408,9 +414,9 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 ### 2.4.4 Import your searching result from EMBASE
 * Download citations
     + You need to select the **number** to all articles retrieved, and then click **Export**
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/21 EMBASE-document searching.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/21 EMBASE-document searching.PNG)
     + Then you can use the default format **RIS format (Mendeley, EndNote)** to **Export**
-    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/22 EMBASE-document searching2.PNG)
+    ![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/22 EMBASE-document searching2.PNG)
 * Import citations
     + Simply double-click the document to import it to EndNote.
 
@@ -420,8 +426,8 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 * Use **Rating** to rate the literature to different levels, eg. "highly relevant", "medium", "low"
 * Click on **Notes**/**Rating** will help you to sort literature based on this field
 * Double lick on the literature, and you can change details of these fields, and to attach PDF of full text
-![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/23 EndNote interface.PNG)
-![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/24 EndNote interface2.PNG)
+![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/23 EndNote interface.PNG)
+![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/24 EndNote interface2.PNG)
 
 
 ## 2.5 Systematic Snowballing
@@ -434,7 +440,7 @@ Due to limited time and overwhelming details, I did not have time to draft this 
 
 ## 2.6 PRISMA Flow of Information
 * To keep record of complicated searching and scanning, I strongly encourage you to document infromation in PRISMA flow diagram. Details can be found here: <http://www.prisma-statement.org/PRISMAStatement/FlowDiagram>
-![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/search and scan literatures/image/25 PRISMA flow diagram.PNG)
+![Caption](F:/Box Sync/Duke Kunshan University Intern/4 Diet/Group meeting coordination/2021.4.9 group meeting/search and scan literatures/image/25 PRISMA flow diagram.PNG)
 
 
 ## 2.7 Summary on searching
